@@ -1,11 +1,7 @@
 # Agentic Patterns Playground
 
 This repository demonstrates a set of **agentic AI design patterns** built in a
-modular and extensible way.  It takes inspiration from the original
-`multi-agents-design-patterns` project, but reorganises the codebase into
-reusable modules, introduces tracing and memory helpers, and adds a simple
-command‑line interface for running each pattern.  The result is a cleaner
-structure that can serve as a starting point for your own agentic systems.
+modular and extensible way. 
 
 ## Features
 
